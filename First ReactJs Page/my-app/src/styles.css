@@ -1,0 +1,64 @@
+* {
+    padding:0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    
+    padding: 0 16px;
+
+}
+
+
+.Header {
+    background-color: rgba(13, 184, 184, 0.39);
+    height: 80px;
+    margin: auto -16px;
+    padding: 16px 32px;
+    text-align: center;
+
+}
+
+
+.Header h1{
+    color: rgb(169, 27, 27);
+    font-family: "Times New Roman";
+}
+
+
+.Main {
+    background-color: bisque ;
+    float: left;
+    width: 70%;
+    
+}
+
+
+img {
+    display: block;
+    height: 150px;
+    width: 200px;
+}
+
+
+.Nav {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+
+footer{    
+    text-align: center;
+    width: 100%;
+    height: 2.5rem;
+}
+
+
+.note h1{
+    color: blueviolet;
+    font-size: 1.1em;
+    margin-bottom: 6px;
+}
